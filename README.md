@@ -21,7 +21,7 @@ This project solves the problem of manual budget tracking by providing a streaml
 
 ```text
 .
-├── main.py             # Entry point of the application
-├── expense.py          # Expense class definition
-├── expenses.csv        # Persistent data storage
-└── README.md           # Project documentation
+├── expense.py             # Expense class definition
+├── expense_tracker.py     # Main Code
+├── expenses.csv           # Persistent data storage
+└── README.md              # Project documentation
